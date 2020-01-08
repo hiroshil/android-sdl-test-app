@@ -2,5 +2,4 @@
 
 Android SDL Test App
 
-Based heavily on code from Patrick Martin's article:
-https://medium.com/androiddevelopers/getting-started-with-c-and-android-native-activities-2213b402ffff
+Copy from SDL2 source code, script based on SDL2 Android documentation

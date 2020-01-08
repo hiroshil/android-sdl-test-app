@@ -1,2 +1,0 @@
-include ':app'
-rootProject.name='SDL Android Test App'
